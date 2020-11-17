@@ -1,7 +1,6 @@
 <?php
 echo "man";
-FUnction bad(){
-  echo "welcome";
+FUnction bad(){echo "welcome";
 }
 
 ?>
