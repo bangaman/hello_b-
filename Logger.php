@@ -1,6 +1,6 @@
 <?php
 echo "man";
-Function bad(){
+FUnction bad(){
   echo "welcome";
 }
 
